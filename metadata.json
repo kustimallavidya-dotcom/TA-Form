@@ -1,0 +1,5 @@
+{
+  "name": "Railway TA Journal",
+  "description": "Official Indian Railways Travelling Allowance Journal PWA. Features pixel-perfect A4 printing, offline data entry, multi-profile support, and automatic formatting.",
+  "requestFramePermissions": []
+}
